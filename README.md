@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/Pedro-Henri-pit">
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Henri-pit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henri-pit&layout=compact&langs_count=7&_private=true&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henri-pit&layout=compact&langs_count=7&count_private=true&theme=tokyonight"/>
  
 </div>
  <div style="display: inline_block"><br>
